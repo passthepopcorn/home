@@ -6,9 +6,9 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  firstName: "Hashir",
+  firstName: "Samyak",
   middleName: "",
-  lastName: "Shoaib",
+  lastName: "Nagdive",
   message: " Passionate about changing the world with technology. ",
   icons: [
     {
@@ -17,19 +17,19 @@ const mainBody = {
     },
     {
       image: "fa-facebook",
-      url: "https://www.facebook.com/hashirshoaeb",
+      url: "https://www.facebook.com/samyaknagdive",
     },
     {
       image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
+      url: "https://www.instagram.com/mr_samyak646/",
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/hashirshoaeb/",
+      url: "https://www.linkedin.com/in/samyak-nagdive-835b53201/",
     },
     {
       image: "fa-twitter",
-      url: "https://www.twitter.com/hashirshoaeb/",
+      url: "https://www.twitter.com/SamyakNagdive/",
     },
   ],
 };
